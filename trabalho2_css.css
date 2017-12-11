@@ -1,0 +1,67 @@
+#umadiv{
+width: 55px;
+height:55px;
+background-color:    #1C86EE; 
+font-weight: bold;
+color: #ffffff;
+padding: 2 2 2 2px;
+-moz-border-radius: 12px;
+-webkit-border-radius: 8px;
+border:5px solid;
+border-color:#ffffff;
+float: left;
+margin-right:3px;
+margin-left:3px;
+}
+#umadiv:hover {
+background-color: #0061D7;
+}
+#otradiv{
+width: 55px;
+height:55px;
+background-color: #1E90FF;
+font-weight: bold;
+color: #ffffff;
+padding: 2 2 2 2px;
+-moz-border-radius: 12px;
+-webkit-border-radius: 8px;
+float: left;
+margin-right:3px;
+margin-left:3px;
+}
+#vertical{
+width: 55px;
+height:55px;
+background-color: #1E90FF;
+font-weight: bold;
+color: #ffffff;
+padding: 2 2 2 2px;
+-moz-border-radius: 12px;
+-webkit-border-radius: 8px;
+background-repeat: repeat-y;
+margin-right:3px;
+margin-left:3px;
+}
+#fundo{
+width:980px;
+height:500px;
+background-color:#104E8B;
+position: relative;
+left: 0px;
+top: 1px;
+margin: 0;    
+overflow: visible;
+}
+#texto{
+font-family:arial;
+color:#1E90FF;
+padding: 2 2 2 2px;
+padding-bottom:15px;
+padding-top:10px;
+}
+
+body{
+margin:10px;
+height:100%;
+background-color:#363636;
+}
